@@ -1,0 +1,3178 @@
+[
+    {
+        "id": 1,
+        "medicine": "Norepinephrine"
+    },
+    {
+        "id": 2,
+        "medicine": "Clomipramine"
+    },
+    {
+        "id": 3,
+        "medicine": "Entacapone"
+    },
+    {
+        "id": 4,
+        "medicine": "Semaglutide"
+    },
+    {
+        "id": 5,
+        "medicine": "Mometasone"
+    },
+    {
+        "id": 6,
+        "medicine": "Daclatasvir"
+    },
+    {
+        "id": 7,
+        "medicine": "Levothyroxine"
+    },
+    {
+        "id": 8,
+        "medicine": "Biguanide"
+    },
+    {
+        "id": 9,
+        "medicine": "Molnupiravir"
+    },
+    {
+        "id": 10,
+        "medicine": "Ramipril"
+    },
+    {
+        "id": 11,
+        "medicine": "Efavirenz"
+    },
+    {
+        "id": 12,
+        "medicine": "Gemcitabine"
+    },
+    {
+        "id": 13,
+        "medicine": "Isoniazid"
+    },
+    {
+        "id": 14,
+        "medicine": "Deltamethrin"
+    },
+    {
+        "id": 15,
+        "medicine": "Leuprorelin"
+    },
+    {
+        "id": 16,
+        "medicine": "Fludrocortisone"
+    },
+    {
+        "id": 17,
+        "medicine": "Lamotrigine"
+    },
+    {
+        "id": 18,
+        "medicine": "Ataluren"
+    },
+    {
+        "id": 19,
+        "medicine": "Eflornithine"
+    },
+    {
+        "id": 20,
+        "medicine": "Paracetamol"
+    },
+    {
+        "id": 21,
+        "medicine": "Neostigmine"
+    },
+    {
+        "id": 22,
+        "medicine": "Capecitabine"
+    },
+    {
+        "id": 23,
+        "medicine": "Desoxycortone"
+    },
+    {
+        "id": 24,
+        "medicine": "Dexlansoprazole"
+    },
+    {
+        "id": 25,
+        "medicine": "Ritonavir"
+    },
+    {
+        "id": 26,
+        "medicine": "Lapatinib"
+    },
+    {
+        "id": 27,
+        "medicine": "Alprazolam"
+    },
+    {
+        "id": 28,
+        "medicine": "Hydroxyzine"
+    },
+    {
+        "id": 29,
+        "medicine": "Binimetinib"
+    },
+    {
+        "id": 30,
+        "medicine": "Desipramine"
+    },
+    {
+        "id": 31,
+        "medicine": "Meloxicam"
+    },
+    {
+        "id": 32,
+        "medicine": "Allopurinol"
+    },
+    {
+        "id": 33,
+        "medicine": "Posaconazole"
+    },
+    {
+        "id": 34,
+        "medicine": "Acyclovir"
+    },
+    {
+        "id": 35,
+        "medicine": "Dextromethorphan"
+    },
+    {
+        "id": 36,
+        "medicine": "Palivizumab"
+    },
+    {
+        "id": 37,
+        "medicine": "Nitrofural"
+    },
+    {
+        "id": 38,
+        "medicine": "Mesalazine"
+    },
+    {
+        "id": 39,
+        "medicine": "Simvastatin"
+    },
+    {
+        "id": 40,
+        "medicine": "Pazopanib"
+    },
+    {
+        "id": 41,
+        "medicine": "Dactinomycin"
+    },
+    {
+        "id": 42,
+        "medicine": "Risperidone"
+    },
+    {
+        "id": 43,
+        "medicine": "Anastrozole"
+    },
+    {
+        "id": 44,
+        "medicine": "Bisoprolol"
+    },
+    {
+        "id": 45,
+        "medicine": "Itraconazole"
+    },
+    {
+        "id": 46,
+        "medicine": "Topiramate"
+    },
+    {
+        "id": 47,
+        "medicine": "Methimazole"
+    },
+    {
+        "id": 48,
+        "medicine": "Cabozantinib"
+    },
+    {
+        "id": 49,
+        "medicine": "Ibuprofen"
+    },
+    {
+        "id": 50,
+        "medicine": "Pimecrolimus"
+    },
+    {
+        "id": 51,
+        "medicine": "Digoxin"
+    },
+    {
+        "id": 52,
+        "medicine": "Modafinil"
+    },
+    {
+        "id": 53,
+        "medicine": "Carisoprodol"
+    },
+    {
+        "id": 54,
+        "medicine": "Cisplatin"
+    },
+    {
+        "id": 55,
+        "medicine": "Tofacitinib"
+    },
+    {
+        "id": 56,
+        "medicine": "Quetiapine"
+    },
+    {
+        "id": 57,
+        "medicine": "Praziquantel"
+    },
+    {
+        "id": 58,
+        "medicine": "Ampicillin"
+    },
+    {
+        "id": 59,
+        "medicine": "Hydralazine"
+    },
+    {
+        "id": 60,
+        "medicine": "Famciclovir"
+    },
+    {
+        "id": 61,
+        "medicine": "Propantheline"
+    },
+    {
+        "id": 62,
+        "medicine": "Voriconazole"
+    },
+    {
+        "id": 63,
+        "medicine": "Bumetanide"
+    },
+    {
+        "id": 64,
+        "medicine": "Acetaminophen"
+    },
+    {
+        "id": 65,
+        "medicine": "Fenbendazole"
+    },
+    {
+        "id": 66,
+        "medicine": "Gentamicin"
+    },
+    {
+        "id": 67,
+        "medicine": "Exenatide"
+    },
+    {
+        "id": 68,
+        "medicine": "Nusinersen"
+    },
+    {
+        "id": 69,
+        "medicine": "Epinephrine"
+    },
+    {
+        "id": 70,
+        "medicine": "Armodafinil"
+    },
+    {
+        "id": 71,
+        "medicine": "Tacrine"
+    },
+    {
+        "id": 72,
+        "medicine": "Ziprasidone"
+    },
+    {
+        "id": 73,
+        "medicine": "Furosemide"
+    },
+    {
+        "id": 74,
+        "medicine": "Telmisartan"
+    },
+    {
+        "id": 75,
+        "medicine": "Tramadol"
+    },
+    {
+        "id": 76,
+        "medicine": "Betamethasone"
+    },
+    {
+        "id": 77,
+        "medicine": "Idarubicin"
+    },
+    {
+        "id": 78,
+        "medicine": "Dasatinib"
+    },
+    {
+        "id": 79,
+        "medicine": "Labetalol"
+    },
+    {
+        "id": 80,
+        "medicine": "Cabergoline"
+    },
+    {
+        "id": 81,
+        "medicine": "Octreotide"
+    },
+    {
+        "id": 82,
+        "medicine": "Ubiquinol"
+    },
+    {
+        "id": 83,
+        "medicine": "Ribavirin"
+    },
+    {
+        "id": 84,
+        "medicine": "Sulindac"
+    },
+    {
+        "id": 85,
+        "medicine": "Spironolactone"
+    },
+    {
+        "id": 86,
+        "medicine": "Cervarix"
+    },
+    {
+        "id": 87,
+        "medicine": "Tazarotene"
+    },
+    {
+        "id": 88,
+        "medicine": "Benztropine"
+    },
+    {
+        "id": 89,
+        "medicine": "Thyrotropin"
+    },
+    {
+        "id": 90,
+        "medicine": "Abaloparatide"
+    },
+    {
+        "id": 91,
+        "medicine": "Infliximab"
+    },
+    {
+        "id": 92,
+        "medicine": "Cyclopentolate"
+    },
+    {
+        "id": 93,
+        "medicine": "Miglustat"
+    },
+    {
+        "id": 94,
+        "medicine": "Meperidine"
+    },
+    {
+        "id": 95,
+        "medicine": "Ifosfamide"
+    },
+    {
+        "id": 96,
+        "medicine": "Nystatin"
+    },
+    {
+        "id": 97,
+        "medicine": "Ramelteon"
+    },
+    {
+        "id": 98,
+        "medicine": "Amikacin"
+    },
+    {
+        "id": 99,
+        "medicine": "Ropinirole"
+    },
+    {
+        "id": 100,
+        "medicine": "Clindamycin"
+    },
+    {
+        "id": 101,
+        "medicine": "Denosumab"
+    },
+    {
+        "id": 102,
+        "medicine": "Cyclosporine"
+    },
+    {
+        "id": 103,
+        "medicine": "Remdesivir"
+    },
+    {
+        "id": 104,
+        "medicine": "Sulfadiazine"
+    },
+    {
+        "id": 105,
+        "medicine": "Loperamide"
+    },
+    {
+        "id": 106,
+        "medicine": "Lumefantrine"
+    },
+    {
+        "id": 107,
+        "medicine": "Sildenafil"
+    },
+    {
+        "id": 108,
+        "medicine": "Olanzapine"
+    },
+    {
+        "id": 109,
+        "medicine": "Tremelimumab"
+    },
+    {
+        "id": 110,
+        "medicine": "Paroxetine"
+    },
+    {
+        "id": 111,
+        "medicine": "Ethosuximide"
+    },
+    {
+        "id": 112,
+        "medicine": "Citalopram"
+    },
+    {
+        "id": 113,
+        "medicine": "Piperacillin"
+    },
+    {
+        "id": 114,
+        "medicine": "Tromethamine"
+    },
+    {
+        "id": 115,
+        "medicine": "Fluvoxamine"
+    },
+    {
+        "id": 116,
+        "medicine": "Methazolamide"
+    },
+    {
+        "id": 117,
+        "medicine": "Valganciclovir"
+    },
+    {
+        "id": 118,
+        "medicine": "Eliglustat"
+    },
+    {
+        "id": 119,
+        "medicine": "Artenimol"
+    },
+    {
+        "id": 120,
+        "medicine": "Terbinafine"
+    },
+    {
+        "id": 121,
+        "medicine": "Streptomycin"
+    },
+    {
+        "id": 122,
+        "medicine": "Erythropoietin"
+    },
+    {
+        "id": 123,
+        "medicine": "Bexarotene"
+    },
+    {
+        "id": 124,
+        "medicine": "Nilotinib"
+    },
+    {
+        "id": 125,
+        "medicine": "Probenecid"
+    },
+    {
+        "id": 126,
+        "medicine": "Aminophylline"
+    },
+    {
+        "id": 127,
+        "medicine": "Fesoterodine"
+    },
+    {
+        "id": 128,
+        "medicine": "Alfuzosin"
+    },
+    {
+        "id": 129,
+        "medicine": "Imipramine"
+    },
+    {
+        "id": 130,
+        "medicine": "Levocabastine"
+    },
+    {
+        "id": 131,
+        "medicine": "Phenylephrine"
+    },
+    {
+        "id": 132,
+        "medicine": "Eculizumab"
+    },
+    {
+        "id": 133,
+        "medicine": "Meropenem"
+    },
+    {
+        "id": 134,
+        "medicine": "Pyrazinamide"
+    },
+    {
+        "id": 135,
+        "medicine": "Ethambutol"
+    },
+    {
+        "id": 136,
+        "medicine": "Sulfadoxine"
+    },
+    {
+        "id": 137,
+        "medicine": "Eribulin"
+    },
+    {
+        "id": 138,
+        "medicine": "Apalutamide"
+    },
+    {
+        "id": 139,
+        "medicine": "Tuberculin"
+    },
+    {
+        "id": 140,
+        "medicine": "Fluticasone"
+    },
+    {
+        "id": 141,
+        "medicine": "Methylphenidate"
+    },
+    {
+        "id": 142,
+        "medicine": "Romidepsin"
+    },
+    {
+        "id": 143,
+        "medicine": "Pegaptanib"
+    },
+    {
+        "id": 144,
+        "medicine": "Somatostatin"
+    },
+    {
+        "id": 145,
+        "medicine": "Felodipine"
+    },
+    {
+        "id": 146,
+        "medicine": "Mirabegron"
+    },
+    {
+        "id": 147,
+        "medicine": "Dipyridamole"
+    },
+    {
+        "id": 148,
+        "medicine": "Diloxanide"
+    },
+    {
+        "id": 149,
+        "medicine": "Amifampridine"
+    },
+    {
+        "id": 150,
+        "medicine": "Dapagliflozin"
+    },
+    {
+        "id": 151,
+        "medicine": "Flucytosine"
+    },
+    {
+        "id": 152,
+        "medicine": "Rabeprazole"
+    },
+    {
+        "id": 153,
+        "medicine": "Ibritumomab"
+    },
+    {
+        "id": 154,
+        "medicine": "Tizanidine"
+    },
+    {
+        "id": 155,
+        "medicine": "Travoprost"
+    },
+    {
+        "id": 156,
+        "medicine": "Mexiletine"
+    },
+    {
+        "id": 157,
+        "medicine": "Oxaliplatin"
+    },
+    {
+        "id": 158,
+        "medicine": "Thyroxine"
+    },
+    {
+        "id": 159,
+        "medicine": "Pyrantel"
+    },
+    {
+        "id": 160,
+        "medicine": "Phenobarbital"
+    },
+    {
+        "id": 161,
+        "medicine": "Ethionamide"
+    },
+    {
+        "id": 162,
+        "medicine": "Dosulepin"
+    },
+    {
+        "id": 163,
+        "medicine": "Stanolone"
+    },
+    {
+        "id": 164,
+        "medicine": "Darolutamide"
+    },
+    {
+        "id": 165,
+        "medicine": "Dextroamphetamine"
+    },
+    {
+        "id": 166,
+        "medicine": "Memantine"
+    },
+    {
+        "id": 167,
+        "medicine": "Roxithromycin"
+    },
+    {
+        "id": 168,
+        "medicine": "Carbimazole"
+    },
+    {
+        "id": 169,
+        "medicine": "Ketoconazole"
+    },
+    {
+        "id": 170,
+        "medicine": "Dexamethasone"
+    },
+    {
+        "id": 171,
+        "medicine": "Sofosbuvir"
+    },
+    {
+        "id": 172,
+        "medicine": "Cilastatin"
+    },
+    {
+        "id": 173,
+        "medicine": "Ciprofloxacin"
+    },
+    {
+        "id": 174,
+        "medicine": "Vincristine"
+    },
+    {
+        "id": 175,
+        "medicine": "Promethazine"
+    },
+    {
+        "id": 176,
+        "medicine": "Imiquimod"
+    },
+    {
+        "id": 177,
+        "medicine": "Clofazimine"
+    },
+    {
+        "id": 178,
+        "medicine": "Fluoxetine"
+    },
+    {
+        "id": 179,
+        "medicine": "Vemurafenib"
+    },
+    {
+        "id": 180,
+        "medicine": "Imatinib"
+    },
+    {
+        "id": 181,
+        "medicine": "Doxycycline"
+    },
+    {
+        "id": 182,
+        "medicine": "Ranitidine"
+    },
+    {
+        "id": 183,
+        "medicine": "Ceftazidime"
+    },
+    {
+        "id": 184,
+        "medicine": "Metoprolol"
+    },
+    {
+        "id": 185,
+        "medicine": "Mitotane"
+    },
+    {
+        "id": 186,
+        "medicine": "Eprosartan"
+    },
+    {
+        "id": 187,
+        "medicine": "Flumazenil"
+    },
+    {
+        "id": 188,
+        "medicine": "Loratadine"
+    },
+    {
+        "id": 189,
+        "medicine": "Diiodohydroxyquinoline"
+    },
+    {
+        "id": 190,
+        "medicine": "Timolol"
+    },
+    {
+        "id": 191,
+        "medicine": "Dothiepin"
+    },
+    {
+        "id": 192,
+        "medicine": "Celecoxib"
+    },
+    {
+        "id": 193,
+        "medicine": "Bupivacaine"
+    },
+    {
+        "id": 194,
+        "medicine": "Trospium"
+    },
+    {
+        "id": 195,
+        "medicine": "Guaifenesin"
+    },
+    {
+        "id": 196,
+        "medicine": "Imiglucerase"
+    },
+    {
+        "id": 197,
+        "medicine": "Pegfilgrastim"
+    },
+    {
+        "id": 198,
+        "medicine": "Ketotifen"
+    },
+    {
+        "id": 199,
+        "medicine": "Hydromorphone"
+    },
+    {
+        "id": 200,
+        "medicine": "Palbociclib"
+    },
+    {
+        "id": 201,
+        "medicine": "Hydroxocobalamin"
+    },
+    {
+        "id": 202,
+        "medicine": "Tolterodine"
+    },
+    {
+        "id": 203,
+        "medicine": "Chlorthalidone"
+    },
+    {
+        "id": 204,
+        "medicine": "Piperaquine"
+    },
+    {
+        "id": 205,
+        "medicine": "Pentamidine"
+    },
+    {
+        "id": 206,
+        "medicine": "Indacaterol"
+    },
+    {
+        "id": 207,
+        "medicine": "Ertapenem"
+    },
+    {
+        "id": 208,
+        "medicine": "Oseltamivir"
+    },
+    {
+        "id": 209,
+        "medicine": "Eplerenone"
+    },
+    {
+        "id": 210,
+        "medicine": "Torasemide"
+    },
+    {
+        "id": 211,
+        "medicine": "Cycloserine"
+    },
+    {
+        "id": 212,
+        "medicine": "Benzylpenicillin"
+    },
+    {
+        "id": 213,
+        "medicine": "Torsemide"
+    },
+    {
+        "id": 214,
+        "medicine": "Cetuximab"
+    },
+    {
+        "id": 215,
+        "medicine": "Biotin"
+    },
+    {
+        "id": 216,
+        "medicine": "Procarbazine"
+    },
+    {
+        "id": 217,
+        "medicine": "Clopidogrel"
+    },
+    {
+        "id": 218,
+        "medicine": "Filgrastim"
+    },
+    {
+        "id": 219,
+        "medicine": "Clomifene"
+    },
+    {
+        "id": 220,
+        "medicine": "Ipilimumab"
+    },
+    {
+        "id": 221,
+        "medicine": "Homatropine"
+    },
+    {
+        "id": 222,
+        "medicine": "Albuterol"
+    },
+    {
+        "id": 223,
+        "medicine": "Baricitinib"
+    },
+    {
+        "id": 224,
+        "medicine": "Povidone"
+    },
+    {
+        "id": 225,
+        "medicine": "Pemetrexed"
+    },
+    {
+        "id": 226,
+        "medicine": "Artemotil"
+    },
+    {
+        "id": 227,
+        "medicine": "Isotretinoin"
+    },
+    {
+        "id": 228,
+        "medicine": "Ibandronate"
+    },
+    {
+        "id": 229,
+        "medicine": "Meticillin"
+    },
+    {
+        "id": 230,
+        "medicine": "Capreomycin"
+    },
+    {
+        "id": 231,
+        "medicine": "Indomethacin"
+    },
+    {
+        "id": 232,
+        "medicine": "Rasagiline"
+    },
+    {
+        "id": 233,
+        "medicine": "Ixekizumab"
+    },
+    {
+        "id": 234,
+        "medicine": "Tetrahydrozoline"
+    },
+    {
+        "id": 235,
+        "medicine": "Rosiglitazone"
+    },
+    {
+        "id": 236,
+        "medicine": "Nintedanib"
+    },
+    {
+        "id": 237,
+        "medicine": "Necitumumab"
+    },
+    {
+        "id": 238,
+        "medicine": "Bedaquiline"
+    },
+    {
+        "id": 239,
+        "medicine": "Diethylcarbamazine"
+    },
+    {
+        "id": 240,
+        "medicine": "Dabrafenib"
+    },
+    {
+        "id": 241,
+        "medicine": "Misoprostol"
+    },
+    {
+        "id": 242,
+        "medicine": "Gabapentin"
+    },
+    {
+        "id": 243,
+        "medicine": "Vigabatrin"
+    },
+    {
+        "id": 244,
+        "medicine": "Dronedarone"
+    },
+    {
+        "id": 245,
+        "medicine": "Vinblastine"
+    },
+    {
+        "id": 246,
+        "medicine": "Fosfomycin"
+    },
+    {
+        "id": 247,
+        "medicine": "Dicyclomine"
+    },
+    {
+        "id": 248,
+        "medicine": "Fentanyl"
+    },
+    {
+        "id": 249,
+        "medicine": "Cholecalciferol"
+    },
+    {
+        "id": 250,
+        "medicine": "Naftifine"
+    },
+    {
+        "id": 251,
+        "medicine": "Cimetidine"
+    },
+    {
+        "id": 252,
+        "medicine": "Doxorubicin"
+    },
+    {
+        "id": 253,
+        "medicine": "Zonisamide"
+    },
+    {
+        "id": 254,
+        "medicine": "Benserazide"
+    },
+    {
+        "id": 255,
+        "medicine": "Tamsulosin"
+    },
+    {
+        "id": 256,
+        "medicine": "Metronidazole"
+    },
+    {
+        "id": 257,
+        "medicine": "Neomycin"
+    },
+    {
+        "id": 258,
+        "medicine": "Stiripentol"
+    },
+    {
+        "id": 259,
+        "medicine": "Daclizumab"
+    },
+    {
+        "id": 260,
+        "medicine": "Ticlopidine"
+    },
+    {
+        "id": 261,
+        "medicine": "Sumatriptan"
+    },
+    {
+        "id": 262,
+        "medicine": "Lincomycin"
+    },
+    {
+        "id": 263,
+        "medicine": "Methylprednisolone"
+    },
+    {
+        "id": 264,
+        "medicine": "Sulconazole"
+    },
+    {
+        "id": 265,
+        "medicine": "Bupropion"
+    },
+    {
+        "id": 266,
+        "medicine": "Retinol"
+    },
+    {
+        "id": 267,
+        "medicine": "Artemether"
+    },
+    {
+        "id": 268,
+        "medicine": "Mupirocin"
+    },
+    {
+        "id": 269,
+        "medicine": "Aliskiren"
+    },
+    {
+        "id": 270,
+        "medicine": "Triiodothyronine"
+    },
+    {
+        "id": 271,
+        "medicine": "Ibrutinib"
+    },
+    {
+        "id": 272,
+        "medicine": "Dihydrotestosterone"
+    },
+    {
+        "id": 273,
+        "medicine": "Miltefosine"
+    },
+    {
+        "id": 274,
+        "medicine": "Prasugrel"
+    },
+    {
+        "id": 275,
+        "medicine": "Uridine"
+    },
+    {
+        "id": 276,
+        "medicine": "Mitoxantrone"
+    },
+    {
+        "id": 277,
+        "medicine": "Sitagliptin"
+    },
+    {
+        "id": 278,
+        "medicine": "Dabigatran"
+    },
+    {
+        "id": 279,
+        "medicine": "Carbidopa"
+    },
+    {
+        "id": 280,
+        "medicine": "Salbutamol"
+    },
+    {
+        "id": 281,
+        "medicine": "Oxymetazoline"
+    },
+    {
+        "id": 282,
+        "medicine": "Atenolol"
+    },
+    {
+        "id": 283,
+        "medicine": "Atropine"
+    },
+    {
+        "id": 284,
+        "medicine": "Enalapril"
+    },
+    {
+        "id": 285,
+        "medicine": "Trihexyphenidyl"
+    },
+    {
+        "id": 286,
+        "medicine": "Homocysteine"
+    },
+    {
+        "id": 287,
+        "medicine": "Haloperidol"
+    },
+    {
+        "id": 288,
+        "medicine": "Tryptophan"
+    },
+    {
+        "id": 289,
+        "medicine": "Ibutilide"
+    },
+    {
+        "id": 290,
+        "medicine": "Dacarbazine"
+    },
+    {
+        "id": 291,
+        "medicine": "Gefitinib"
+    },
+    {
+        "id": 292,
+        "medicine": "Tamoxifen"
+    },
+    {
+        "id": 293,
+        "medicine": "Tadalafil"
+    },
+    {
+        "id": 294,
+        "medicine": "Chlorambucil"
+    },
+    {
+        "id": 295,
+        "medicine": "Abemaciclib"
+    },
+    {
+        "id": 296,
+        "medicine": "Enzalutamide"
+    },
+    {
+        "id": 297,
+        "medicine": "Kanamycin"
+    },
+    {
+        "id": 298,
+        "medicine": "Mercaptopurine"
+    },
+    {
+        "id": 299,
+        "medicine": "Benzatropine"
+    },
+    {
+        "id": 300,
+        "medicine": "Lamivudine"
+    },
+    {
+        "id": 301,
+        "medicine": "Valacyclovir"
+    },
+    {
+        "id": 302,
+        "medicine": "Hydroxychloroquine"
+    },
+    {
+        "id": 303,
+        "medicine": "Certolizumab"
+    },
+    {
+        "id": 304,
+        "medicine": "Simethicone"
+    },
+    {
+        "id": 305,
+        "medicine": "Beloranib"
+    },
+    {
+        "id": 306,
+        "medicine": "Ticagrelor"
+    },
+    {
+        "id": 307,
+        "medicine": "Levalbuterol"
+    },
+    {
+        "id": 308,
+        "medicine": "Eletriptan"
+    },
+    {
+        "id": 309,
+        "medicine": "Proparacaine"
+    },
+    {
+        "id": 310,
+        "medicine": "Pilocarpine"
+    },
+    {
+        "id": 311,
+        "medicine": "Salmeterol"
+    },
+    {
+        "id": 312,
+        "medicine": "Cephalexin"
+    },
+    {
+        "id": 313,
+        "medicine": "Ursodiol"
+    },
+    {
+        "id": 314,
+        "medicine": "Isoxaflutole"
+    },
+    {
+        "id": 315,
+        "medicine": "Venetoclax"
+    },
+    {
+        "id": 316,
+        "medicine": "Prazosin"
+    },
+    {
+        "id": 317,
+        "medicine": "Deflazacort"
+    },
+    {
+        "id": 318,
+        "medicine": "Mycophenolate"
+    },
+    {
+        "id": 319,
+        "medicine": "Tacrolimus"
+    },
+    {
+        "id": 320,
+        "medicine": "Conivaptan"
+    },
+    {
+        "id": 321,
+        "medicine": "Nortriptyline"
+    },
+    {
+        "id": 322,
+        "medicine": "Procainamide"
+    },
+    {
+        "id": 323,
+        "medicine": "Levamisole"
+    },
+    {
+        "id": 324,
+        "medicine": "Selegiline"
+    },
+    {
+        "id": 325,
+        "medicine": "Acarbose"
+    },
+    {
+        "id": 326,
+        "medicine": "Brincidofovir"
+    },
+    {
+        "id": 327,
+        "medicine": "Nitazoxanide"
+    },
+    {
+        "id": 328,
+        "medicine": "Cefaclor"
+    },
+    {
+        "id": 329,
+        "medicine": "Tiotropium"
+    },
+    {
+        "id": 330,
+        "medicine": "Ustekinumab"
+    },
+    {
+        "id": 331,
+        "medicine": "Oxycodone"
+    },
+    {
+        "id": 332,
+        "medicine": "Tazobactam"
+    },
+    {
+        "id": 333,
+        "medicine": "Carbamazepine"
+    },
+    {
+        "id": 334,
+        "medicine": "Desmopressin"
+    },
+    {
+        "id": 335,
+        "medicine": "Nicardipine"
+    },
+    {
+        "id": 336,
+        "medicine": "Cefiderocol"
+    },
+    {
+        "id": 337,
+        "medicine": "Doripenem"
+    },
+    {
+        "id": 338,
+        "medicine": "Clocortolone"
+    },
+    {
+        "id": 339,
+        "medicine": "Lisdexamfetamine"
+    },
+    {
+        "id": 340,
+        "medicine": "Axitinib"
+    },
+    {
+        "id": 341,
+        "medicine": "Baloxavir"
+    },
+    {
+        "id": 342,
+        "medicine": "Ciclopirox"
+    },
+    {
+        "id": 343,
+        "medicine": "Imipenem"
+    },
+    {
+        "id": 344,
+        "medicine": "Trimethoprim"
+    },
+    {
+        "id": 345,
+        "medicine": "Methylergometrine"
+    },
+    {
+        "id": 346,
+        "medicine": "Osimertinib"
+    },
+    {
+        "id": 347,
+        "medicine": "Hydroquinone"
+    },
+    {
+        "id": 348,
+        "medicine": "Dopamine"
+    },
+    {
+        "id": 349,
+        "medicine": "Temsirolimus"
+    },
+    {
+        "id": 350,
+        "medicine": "Adalimumab"
+    },
+    {
+        "id": 351,
+        "medicine": "Aripiprazole"
+    },
+    {
+        "id": 352,
+        "medicine": "Rifaximin"
+    },
+    {
+        "id": 353,
+        "medicine": "Lubiprostone"
+    },
+    {
+        "id": 354,
+        "medicine": "Alectinib"
+    },
+    {
+        "id": 355,
+        "medicine": "Moxidectin"
+    },
+    {
+        "id": 356,
+        "medicine": "Bosutinib"
+    },
+    {
+        "id": 357,
+        "medicine": "Apixaban"
+    },
+    {
+        "id": 358,
+        "medicine": "Doxylamine"
+    },
+    {
+        "id": 359,
+        "medicine": "Frovatriptan"
+    },
+    {
+        "id": 360,
+        "medicine": "Valproate"
+    },
+    {
+        "id": 361,
+        "medicine": "Foscarnet"
+    },
+    {
+        "id": 362,
+        "medicine": "Ergocalciferol"
+    },
+    {
+        "id": 363,
+        "medicine": "Micafungin"
+    },
+    {
+        "id": 364,
+        "medicine": "Milnacipran"
+    },
+    {
+        "id": 365,
+        "medicine": "Gardasil"
+    },
+    {
+        "id": 366,
+        "medicine": "Guselkumab"
+    },
+    {
+        "id": 367,
+        "medicine": "Tocilizumab"
+    },
+    {
+        "id": 368,
+        "medicine": "Niclosamide"
+    },
+    {
+        "id": 369,
+        "medicine": "Bacitracin"
+    },
+    {
+        "id": 370,
+        "medicine": "Suramin"
+    },
+    {
+        "id": 371,
+        "medicine": "Peramivir"
+    },
+    {
+        "id": 372,
+        "medicine": "Alefacept"
+    },
+    {
+        "id": 373,
+        "medicine": "Verteporfin"
+    },
+    {
+        "id": 374,
+        "medicine": "Clofarabine"
+    },
+    {
+        "id": 375,
+        "medicine": "Pregabalin"
+    },
+    {
+        "id": 376,
+        "medicine": "Flunisolide"
+    },
+    {
+        "id": 377,
+        "medicine": "Benzbromarone"
+    },
+    {
+        "id": 378,
+        "medicine": "Ipratropium"
+    },
+    {
+        "id": 379,
+        "medicine": "Diphenhydramine"
+    },
+    {
+        "id": 380,
+        "medicine": "Cyclobenzaprine"
+    },
+    {
+        "id": 381,
+        "medicine": "Umifenovir"
+    },
+    {
+        "id": 382,
+        "medicine": "Colchicine"
+    },
+    {
+        "id": 383,
+        "medicine": "Lestaurtinib"
+    },
+    {
+        "id": 384,
+        "medicine": "Diclofenac"
+    },
+    {
+        "id": 385,
+        "medicine": "Lidocaine"
+    },
+    {
+        "id": 386,
+        "medicine": "Lurbinectedin"
+    },
+    {
+        "id": 387,
+        "medicine": "Pyridostigmine"
+    },
+    {
+        "id": 388,
+        "medicine": "Ciclosporin"
+    },
+    {
+        "id": 389,
+        "medicine": "Thiabendazole"
+    },
+    {
+        "id": 390,
+        "medicine": "Buserelin"
+    },
+    {
+        "id": 391,
+        "medicine": "Ceftriaxone"
+    },
+    {
+        "id": 392,
+        "medicine": "Pembrolizumab"
+    },
+    {
+        "id": 393,
+        "medicine": "Risdiplam"
+    },
+    {
+        "id": 394,
+        "medicine": "Cetirizine"
+    },
+    {
+        "id": 395,
+        "medicine": "Pirfenidone"
+    },
+    {
+        "id": 396,
+        "medicine": "Epoprostenol"
+    },
+    {
+        "id": 397,
+        "medicine": "Bethanechol"
+    },
+    {
+        "id": 398,
+        "medicine": "Danazol"
+    },
+    {
+        "id": 399,
+        "medicine": "Alemtuzumab"
+    },
+    {
+        "id": 400,
+        "medicine": "Oxcarbazepine"
+    },
+    {
+        "id": 401,
+        "medicine": "Zidovudine"
+    },
+    {
+        "id": 402,
+        "medicine": "Butenafine"
+    },
+    {
+        "id": 403,
+        "medicine": "Naltrexone"
+    },
+    {
+        "id": 404,
+        "medicine": "Olaparib"
+    },
+    {
+        "id": 405,
+        "medicine": "Sertaconazole"
+    },
+    {
+        "id": 406,
+        "medicine": "Finasteride"
+    },
+    {
+        "id": 407,
+        "medicine": "Tucatinib"
+    },
+    {
+        "id": 408,
+        "medicine": "Melarsoprol"
+    },
+    {
+        "id": 409,
+        "medicine": "Emtricitabine"
+    },
+    {
+        "id": 410,
+        "medicine": "Levocarnitine"
+    },
+    {
+        "id": 411,
+        "medicine": "Amlodipine"
+    },
+    {
+        "id": 412,
+        "medicine": "Bimatoprost"
+    },
+    {
+        "id": 413,
+        "medicine": "Trastuzumab"
+    },
+    {
+        "id": 414,
+        "medicine": "Vardenafil"
+    },
+    {
+        "id": 415,
+        "medicine": "Acitretin"
+    },
+    {
+        "id": 416,
+        "medicine": "Chloramphenicol"
+    },
+    {
+        "id": 417,
+        "medicine": "Phentermine"
+    },
+    {
+        "id": 418,
+        "medicine": "Omeprazole"
+    },
+    {
+        "id": 419,
+        "medicine": "Dapsone"
+    },
+    {
+        "id": 420,
+        "medicine": "Propylthiouracil"
+    },
+    {
+        "id": 421,
+        "medicine": "Tinidazole"
+    },
+    {
+        "id": 422,
+        "medicine": "Aspirin"
+    },
+    {
+        "id": 423,
+        "medicine": "Tenofovir"
+    },
+    {
+        "id": 424,
+        "medicine": "Mitomycin"
+    },
+    {
+        "id": 425,
+        "medicine": "Nadolol"
+    },
+    {
+        "id": 426,
+        "medicine": "Hydrochlorothiazide"
+    },
+    {
+        "id": 427,
+        "medicine": "Ritodrine"
+    },
+    {
+        "id": 428,
+        "medicine": "Tetryzoline"
+    },
+    {
+        "id": 429,
+        "medicine": "Cinacalcet"
+    },
+    {
+        "id": 430,
+        "medicine": "Nivolumab"
+    },
+    {
+        "id": 431,
+        "medicine": "Clotrimazole"
+    },
+    {
+        "id": 432,
+        "medicine": "Lorazepam"
+    },
+    {
+        "id": 433,
+        "medicine": "Zanamivir"
+    },
+    {
+        "id": 434,
+        "medicine": "Moxifloxacin"
+    },
+    {
+        "id": 435,
+        "medicine": "Lomustine"
+    },
+    {
+        "id": 436,
+        "medicine": "Ruxolitinib"
+    },
+    {
+        "id": 437,
+        "medicine": "Zafirlukast"
+    },
+    {
+        "id": 438,
+        "medicine": "Sotalol"
+    },
+    {
+        "id": 439,
+        "medicine": "Dulaglutide"
+    },
+    {
+        "id": 440,
+        "medicine": "Donepezil"
+    },
+    {
+        "id": 441,
+        "medicine": "Tretinoin"
+    },
+    {
+        "id": 442,
+        "medicine": "Diltiazem"
+    },
+    {
+        "id": 443,
+        "medicine": "Colestipol"
+    },
+    {
+        "id": 444,
+        "medicine": "Phentolamine"
+    },
+    {
+        "id": 445,
+        "medicine": "Naphazoline"
+    },
+    {
+        "id": 446,
+        "medicine": "Penicillin"
+    },
+    {
+        "id": 447,
+        "medicine": "Risedronate"
+    },
+    {
+        "id": 448,
+        "medicine": "Topotecan"
+    },
+    {
+        "id": 449,
+        "medicine": "Adapalene"
+    },
+    {
+        "id": 450,
+        "medicine": "Raloxifene"
+    },
+    {
+        "id": 451,
+        "medicine": "Duloxetine"
+    },
+    {
+        "id": 452,
+        "medicine": "Quinidine"
+    },
+    {
+        "id": 453,
+        "medicine": "Lactase"
+    },
+    {
+        "id": 454,
+        "medicine": "Permethrin"
+    },
+    {
+        "id": 455,
+        "medicine": "Deferoxamine"
+    },
+    {
+        "id": 456,
+        "medicine": "Lansoprazole"
+    },
+    {
+        "id": 457,
+        "medicine": "Alendronate"
+    },
+    {
+        "id": 458,
+        "medicine": "Benzocaine"
+    },
+    {
+        "id": 459,
+        "medicine": "Iduronidase"
+    },
+    {
+        "id": 460,
+        "medicine": "Esomeprazole"
+    },
+    {
+        "id": 461,
+        "medicine": "Hydrocortisone"
+    },
+    {
+        "id": 462,
+        "medicine": "Dinoprostone"
+    },
+    {
+        "id": 463,
+        "medicine": "Idelalisib"
+    },
+    {
+        "id": 464,
+        "medicine": "Glimepiride"
+    },
+    {
+        "id": 465,
+        "medicine": "Daunorubicin"
+    },
+    {
+        "id": 466,
+        "medicine": "Zolmitriptan"
+    },
+    {
+        "id": 467,
+        "medicine": "Safinamide"
+    },
+    {
+        "id": 468,
+        "medicine": "Tropicamide"
+    },
+    {
+        "id": 469,
+        "medicine": "Lenalidomide"
+    },
+    {
+        "id": 470,
+        "medicine": "Leflunomide"
+    },
+    {
+        "id": 471,
+        "medicine": "Amphetamine"
+    },
+    {
+        "id": 472,
+        "medicine": "Perindopril"
+    },
+    {
+        "id": 473,
+        "medicine": "Goserelin"
+    },
+    {
+        "id": 474,
+        "medicine": "Teriparatide"
+    },
+    {
+        "id": 475,
+        "medicine": "Phenoxymethylpenicillin"
+    },
+    {
+        "id": 476,
+        "medicine": "Nifurtimox"
+    },
+    {
+        "id": 477,
+        "medicine": "Fluorouracil"
+    },
+    {
+        "id": 478,
+        "medicine": "Edaravone"
+    },
+    {
+        "id": 479,
+        "medicine": "Fluconazole"
+    },
+    {
+        "id": 480,
+        "medicine": "Desloratadine"
+    },
+    {
+        "id": 481,
+        "medicine": "Sulfamethoxazole"
+    },
+    {
+        "id": 482,
+        "medicine": "Lactulose"
+    },
+    {
+        "id": 483,
+        "medicine": "Etanercept"
+    },
+    {
+        "id": 484,
+        "medicine": "Busulfan"
+    },
+    {
+        "id": 485,
+        "medicine": "Procyclidine"
+    },
+    {
+        "id": 486,
+        "medicine": "Ceftaroline"
+    },
+    {
+        "id": 487,
+        "medicine": "Cromolyn"
+    },
+    {
+        "id": 488,
+        "medicine": "Cidofovir"
+    },
+    {
+        "id": 489,
+        "medicine": "Rotigotine"
+    },
+    {
+        "id": 490,
+        "medicine": "Abiraterone"
+    },
+    {
+        "id": 491,
+        "medicine": "Triamterene"
+    },
+    {
+        "id": 492,
+        "medicine": "Nitrofurazone"
+    },
+    {
+        "id": 493,
+        "medicine": "Minocycline"
+    },
+    {
+        "id": 494,
+        "medicine": "Orlistat"
+    },
+    {
+        "id": 495,
+        "medicine": "Serotonin"
+    },
+    {
+        "id": 496,
+        "medicine": "Pioglitazone"
+    },
+    {
+        "id": 497,
+        "medicine": "Nifedipine"
+    },
+    {
+        "id": 498,
+        "medicine": "Rocuronium"
+    },
+    {
+        "id": 499,
+        "medicine": "Rituximab"
+    },
+    {
+        "id": 500,
+        "medicine": "Liothyronine"
+    },
+    {
+        "id": 501,
+        "medicine": "Piracetam"
+    },
+    {
+        "id": 502,
+        "medicine": "Acamprosate"
+    },
+    {
+        "id": 503,
+        "medicine": "Levetiracetam"
+    },
+    {
+        "id": 504,
+        "medicine": "Galantamine"
+    },
+    {
+        "id": 505,
+        "medicine": "Desvenlafaxine"
+    },
+    {
+        "id": 506,
+        "medicine": "Levosalbutamol"
+    },
+    {
+        "id": 507,
+        "medicine": "Etretinate"
+    },
+    {
+        "id": 508,
+        "medicine": "Baclofen"
+    },
+    {
+        "id": 509,
+        "medicine": "Buspirone"
+    },
+    {
+        "id": 510,
+        "medicine": "Brinzolamide"
+    },
+    {
+        "id": 511,
+        "medicine": "Lanreotide"
+    },
+    {
+        "id": 512,
+        "medicine": "Lorcaserin"
+    },
+    {
+        "id": 513,
+        "medicine": "Sunitinib"
+    },
+    {
+        "id": 514,
+        "medicine": "Mesalamine"
+    },
+    {
+        "id": 515,
+        "medicine": "Rosuvastatin"
+    },
+    {
+        "id": 516,
+        "medicine": "Glatiramer"
+    },
+    {
+        "id": 517,
+        "medicine": "Nedocromil"
+    },
+    {
+        "id": 518,
+        "medicine": "Venlafaxine"
+    },
+    {
+        "id": 519,
+        "medicine": "Paricalcitol"
+    },
+    {
+        "id": 520,
+        "medicine": "Pasireotide"
+    },
+    {
+        "id": 521,
+        "medicine": "Glucagon"
+    },
+    {
+        "id": 522,
+        "medicine": "Ivermectin"
+    },
+    {
+        "id": 523,
+        "medicine": "Sutezolid"
+    },
+    {
+        "id": 524,
+        "medicine": "Metformin"
+    },
+    {
+        "id": 525,
+        "medicine": "Tiagabine"
+    },
+    {
+        "id": 526,
+        "medicine": "Desoxycorticosterone"
+    },
+    {
+        "id": 527,
+        "medicine": "Brimonidine"
+    },
+    {
+        "id": 528,
+        "medicine": "Fingolimod"
+    },
+    {
+        "id": 529,
+        "medicine": "Betaxolol"
+    },
+    {
+        "id": 530,
+        "medicine": "Amantadine"
+    },
+    {
+        "id": 531,
+        "medicine": "Rifabutin"
+    },
+    {
+        "id": 532,
+        "medicine": "Tiludronate"
+    },
+    {
+        "id": 533,
+        "medicine": "Pyridoxine"
+    },
+    {
+        "id": 534,
+        "medicine": "Zaleplon"
+    },
+    {
+        "id": 535,
+        "medicine": "Bisacodyl"
+    },
+    {
+        "id": 536,
+        "medicine": "Pentobarbital"
+    },
+    {
+        "id": 537,
+        "medicine": "Daratumumab"
+    },
+    {
+        "id": 538,
+        "medicine": "Fluocinolone"
+    },
+    {
+        "id": 539,
+        "medicine": "Cyanocobalamin"
+    },
+    {
+        "id": 540,
+        "medicine": "Captopril"
+    },
+    {
+        "id": 541,
+        "medicine": "Chlorhexidine"
+    },
+    {
+        "id": 542,
+        "medicine": "Obinutuzumab"
+    },
+    {
+        "id": 543,
+        "medicine": "Mefloquine"
+    },
+    {
+        "id": 544,
+        "medicine": "Triptorelin"
+    },
+    {
+        "id": 545,
+        "medicine": "Leucovorin"
+    },
+    {
+        "id": 546,
+        "medicine": "Canagliflozin"
+    },
+    {
+        "id": 547,
+        "medicine": "Nitrofurantoin"
+    },
+    {
+        "id": 548,
+        "medicine": "Cobalamin"
+    },
+    {
+        "id": 549,
+        "medicine": "Vinorelbine"
+    },
+    {
+        "id": 550,
+        "medicine": "Empagliflozin"
+    },
+    {
+        "id": 551,
+        "medicine": "Secukinumab"
+    },
+    {
+        "id": 552,
+        "medicine": "Succinylcholine"
+    },
+    {
+        "id": 553,
+        "medicine": "Aztreonam"
+    },
+    {
+        "id": 554,
+        "medicine": "Bortezomib"
+    },
+    {
+        "id": 555,
+        "medicine": "Psyllium"
+    },
+    {
+        "id": 556,
+        "medicine": "Chlorpromazine"
+    },
+    {
+        "id": 557,
+        "medicine": "Cladribine"
+    },
+    {
+        "id": 558,
+        "medicine": "Lisinopril"
+    },
+    {
+        "id": 559,
+        "medicine": "Acetazolamide"
+    },
+    {
+        "id": 560,
+        "medicine": "Famotidine"
+    },
+    {
+        "id": 561,
+        "medicine": "Clobetasol"
+    },
+    {
+        "id": 562,
+        "medicine": "Afatinib"
+    },
+    {
+        "id": 563,
+        "medicine": "Neratinib"
+    },
+    {
+        "id": 564,
+        "medicine": "Ranibizumab"
+    },
+    {
+        "id": 565,
+        "medicine": "Pancrelipase"
+    },
+    {
+        "id": 566,
+        "medicine": "Bromocriptine"
+    },
+    {
+        "id": 567,
+        "medicine": "Carfilzomib"
+    },
+    {
+        "id": 568,
+        "medicine": "Fulvestrant"
+    },
+    {
+        "id": 569,
+        "medicine": "Warfarin"
+    },
+    {
+        "id": 570,
+        "medicine": "Vancomycin"
+    },
+    {
+        "id": 571,
+        "medicine": "Pertuzumab"
+    },
+    {
+        "id": 572,
+        "medicine": "Selamectin"
+    },
+    {
+        "id": 573,
+        "medicine": "Didanosine"
+    },
+    {
+        "id": 574,
+        "medicine": "Rivaroxaban"
+    },
+    {
+        "id": 575,
+        "medicine": "Calcipotriol"
+    },
+    {
+        "id": 576,
+        "medicine": "Glutamine"
+    },
+    {
+        "id": 577,
+        "medicine": "Pravastatin"
+    },
+    {
+        "id": 578,
+        "medicine": "Sevelamer"
+    },
+    {
+        "id": 579,
+        "medicine": "Isavuconazole"
+    },
+    {
+        "id": 580,
+        "medicine": "Aldosterone"
+    },
+    {
+        "id": 581,
+        "medicine": "Nevirapine"
+    },
+    {
+        "id": 582,
+        "medicine": "Cefotaxime"
+    },
+    {
+        "id": 583,
+        "medicine": "Isosorbide"
+    },
+    {
+        "id": 584,
+        "medicine": "Bleomycin"
+    },
+    {
+        "id": 585,
+        "medicine": "Colesevelam"
+    },
+    {
+        "id": 586,
+        "medicine": "Codeine"
+    },
+    {
+        "id": 587,
+        "medicine": "Bevacizumab"
+    },
+    {
+        "id": 588,
+        "medicine": "Tilactase"
+    },
+    {
+        "id": 589,
+        "medicine": "Prochlorperazine"
+    },
+    {
+        "id": 590,
+        "medicine": "Lofexidine"
+    },
+    {
+        "id": 591,
+        "medicine": "Cefixime"
+    },
+    {
+        "id": 592,
+        "medicine": "Methotrexate"
+    },
+    {
+        "id": 593,
+        "medicine": "Econazole"
+    },
+    {
+        "id": 594,
+        "medicine": "Meclizine"
+    },
+    {
+        "id": 595,
+        "medicine": "Cortisone"
+    },
+    {
+        "id": 596,
+        "medicine": "Sertindole"
+    },
+    {
+        "id": 597,
+        "medicine": "Fludarabine"
+    },
+    {
+        "id": 598,
+        "medicine": "Levocetirizine"
+    },
+    {
+        "id": 599,
+        "medicine": "Solifenacin"
+    },
+    {
+        "id": 600,
+        "medicine": "Calcitriol"
+    },
+    {
+        "id": 601,
+        "medicine": "Sulfamerazine"
+    },
+    {
+        "id": 602,
+        "medicine": "Flecainide"
+    },
+    {
+        "id": 603,
+        "medicine": "Bendamustine"
+    },
+    {
+        "id": 604,
+        "medicine": "Phenytoin"
+    },
+    {
+        "id": 605,
+        "medicine": "Deferiprone"
+    },
+    {
+        "id": 606,
+        "medicine": "Cytarabine"
+    },
+    {
+        "id": 607,
+        "medicine": "Atomoxetine"
+    },
+    {
+        "id": 608,
+        "medicine": "Golimumab"
+    },
+    {
+        "id": 609,
+        "medicine": "Etoposide"
+    },
+    {
+        "id": 610,
+        "medicine": "Bromelains"
+    },
+    {
+        "id": 611,
+        "medicine": "Clozapine"
+    },
+    {
+        "id": 612,
+        "medicine": "Naproxen"
+    },
+    {
+        "id": 613,
+        "medicine": "Ethoxzolamide"
+    },
+    {
+        "id": 614,
+        "medicine": "Quercetin"
+    },
+    {
+        "id": 615,
+        "medicine": "Calcipotriene"
+    },
+    {
+        "id": 616,
+        "medicine": "Erythromycin"
+    },
+    {
+        "id": 617,
+        "medicine": "Clonidine"
+    },
+    {
+        "id": 618,
+        "medicine": "Eszopiclone"
+    },
+    {
+        "id": 619,
+        "medicine": "Apomorphine"
+    },
+    {
+        "id": 620,
+        "medicine": "Glyburide"
+    },
+    {
+        "id": 621,
+        "medicine": "Pramipexole"
+    },
+    {
+        "id": 622,
+        "medicine": "Tetrabenazine"
+    },
+    {
+        "id": 623,
+        "medicine": "Irinotecan"
+    },
+    {
+        "id": 624,
+        "medicine": "Ramucirumab"
+    },
+    {
+        "id": 625,
+        "medicine": "Decitabine"
+    },
+    {
+        "id": 626,
+        "medicine": "Zalcitabine"
+    },
+    {
+        "id": 627,
+        "medicine": "Ketorolac"
+    },
+    {
+        "id": 628,
+        "medicine": "Erlotinib"
+    },
+    {
+        "id": 629,
+        "medicine": "Everolimus"
+    },
+    {
+        "id": 630,
+        "medicine": "Cholestyramine"
+    },
+    {
+        "id": 631,
+        "medicine": "Ximelagatran"
+    },
+    {
+        "id": 632,
+        "medicine": "Clobazam"
+    },
+    {
+        "id": 633,
+        "medicine": "Levofloxacin"
+    },
+    {
+        "id": 634,
+        "medicine": "Valaciclovir"
+    },
+    {
+        "id": 635,
+        "medicine": "Rivastigmine"
+    },
+    {
+        "id": 636,
+        "medicine": "Griseofulvin"
+    },
+    {
+        "id": 637,
+        "medicine": "Tricyclazole"
+    },
+    {
+        "id": 638,
+        "medicine": "Docetaxel"
+    },
+    {
+        "id": 639,
+        "medicine": "Azathioprine"
+    },
+    {
+        "id": 640,
+        "medicine": "Artesunate"
+    },
+    {
+        "id": 641,
+        "medicine": "Saxagliptin"
+    },
+    {
+        "id": 642,
+        "medicine": "Irbesartan"
+    },
+    {
+        "id": 643,
+        "medicine": "Sirolimus"
+    },
+    {
+        "id": 644,
+        "medicine": "Levodopa"
+    },
+    {
+        "id": 645,
+        "medicine": "Riluzole"
+    },
+    {
+        "id": 646,
+        "medicine": "Albendazole"
+    },
+    {
+        "id": 647,
+        "medicine": "Liraglutide"
+    },
+    {
+        "id": 648,
+        "medicine": "Tigecycline"
+    },
+    {
+        "id": 649,
+        "medicine": "Artemisinin"
+    },
+    {
+        "id": 650,
+        "medicine": "Methylergonovine"
+    },
+    {
+        "id": 651,
+        "medicine": "Pomalidomide"
+    },
+    {
+        "id": 652,
+        "medicine": "Sertraline"
+    },
+    {
+        "id": 653,
+        "medicine": "Ofatumumab"
+    },
+    {
+        "id": 654,
+        "medicine": "Metyrapone"
+    },
+    {
+        "id": 655,
+        "medicine": "Cannabidiol"
+    },
+    {
+        "id": 656,
+        "medicine": "Ofloxacin"
+    },
+    {
+        "id": 657,
+        "medicine": "Azithromycin"
+    },
+    {
+        "id": 658,
+        "medicine": "Pyrimethamine"
+    },
+    {
+        "id": 659,
+        "medicine": "Escitalopram"
+    },
+    {
+        "id": 660,
+        "medicine": "Latanoprost"
+    },
+    {
+        "id": 661,
+        "medicine": "Bicalutamide"
+    },
+    {
+        "id": 662,
+        "medicine": "Mecobalamin"
+    },
+    {
+        "id": 663,
+        "medicine": "Propranolol"
+    },
+    {
+        "id": 664,
+        "medicine": "Cefotetan"
+    },
+    {
+        "id": 665,
+        "medicine": "Sarilumab"
+    },
+    {
+        "id": 666,
+        "medicine": "Domperidone"
+    },
+    {
+        "id": 667,
+        "medicine": "Letrozole"
+    },
+    {
+        "id": 668,
+        "medicine": "Brodalumab"
+    },
+    {
+        "id": 669,
+        "medicine": "Betahistine"
+    },
+    {
+        "id": 670,
+        "medicine": "Leuprolide"
+    },
+    {
+        "id": 671,
+        "medicine": "Atovaquone"
+    },
+    {
+        "id": 672,
+        "medicine": "Bromfenac"
+    },
+    {
+        "id": 673,
+        "medicine": "Beclomethasone"
+    },
+    {
+        "id": 674,
+        "medicine": "Sulfasalazine"
+    },
+    {
+        "id": 675,
+        "medicine": "Metoclopramide"
+    },
+    {
+        "id": 676,
+        "medicine": "Prednisone"
+    },
+    {
+        "id": 677,
+        "medicine": "Amitriptyline"
+    },
+    {
+        "id": 678,
+        "medicine": "Hydrocodone"
+    },
+    {
+        "id": 679,
+        "medicine": "Rizatriptan"
+    },
+    {
+        "id": 680,
+        "medicine": "Cabazitaxel"
+    },
+    {
+        "id": 681,
+        "medicine": "Ocrelizumab"
+    },
+    {
+        "id": 682,
+        "medicine": "Paclitaxel"
+    },
+    {
+        "id": 683,
+        "medicine": "Cysteamine"
+    },
+    {
+        "id": 684,
+        "medicine": "Miconazole"
+    },
+    {
+        "id": 685,
+        "medicine": "Linezolid"
+    },
+    {
+        "id": 686,
+        "medicine": "Acetylcysteine"
+    },
+    {
+        "id": 687,
+        "medicine": "Panitumumab"
+    },
+    {
+        "id": 688,
+        "medicine": "Dimenhydrinate"
+    },
+    {
+        "id": 689,
+        "medicine": "Midodrine"
+    },
+    {
+        "id": 690,
+        "medicine": "Propafenone"
+    },
+    {
+        "id": 691,
+        "medicine": "Varenicline"
+    },
+    {
+        "id": 692,
+        "medicine": "Crizotinib"
+    },
+    {
+        "id": 693,
+        "medicine": "Rifampicin"
+    },
+    {
+        "id": 694,
+        "medicine": "Cyclophosphamide"
+    },
+    {
+        "id": 695,
+        "medicine": "Ledipasvir"
+    },
+    {
+        "id": 696,
+        "medicine": "Dapoxetine"
+    },
+    {
+        "id": 697,
+        "medicine": "Ganciclovir"
+    },
+    {
+        "id": 698,
+        "medicine": "Folate"
+    },
+    {
+        "id": 699,
+        "medicine": "Pantoprazole"
+    },
+    {
+        "id": 700,
+        "medicine": "Phenelzine"
+    },
+    {
+        "id": 701,
+        "medicine": "Azacitidine"
+    },
+    {
+        "id": 702,
+        "medicine": "Teriflunomide"
+    },
+    {
+        "id": 703,
+        "medicine": "Benzalkonium"
+    },
+    {
+        "id": 704,
+        "medicine": "Dantrolene"
+    },
+    {
+        "id": 705,
+        "medicine": "Proguanil"
+    },
+    {
+        "id": 706,
+        "medicine": "Thalidomide"
+    },
+    {
+        "id": 707,
+        "medicine": "Mirtazapine"
+    },
+    {
+        "id": 708,
+        "medicine": "Losartan"
+    },
+    {
+        "id": 709,
+        "medicine": "Rimantadine"
+    },
+    {
+        "id": 710,
+        "medicine": "Minoxidil"
+    },
+    {
+        "id": 711,
+        "medicine": "Follitropin"
+    },
+    {
+        "id": 712,
+        "medicine": "Nizatidine"
+    },
+    {
+        "id": 713,
+        "medicine": "Nisoldipine"
+    },
+    {
+        "id": 714,
+        "medicine": "Amoxicillin"
+    },
+    {
+        "id": 715,
+        "medicine": "Carnitine"
+    },
+    {
+        "id": 716,
+        "medicine": "Amiloride"
+    },
+    {
+        "id": 717,
+        "medicine": "Dexpramipexole"
+    },
+    {
+        "id": 718,
+        "medicine": "Fexofenadine"
+    },
+    {
+        "id": 719,
+        "medicine": "Cefdinir"
+    },
+    {
+        "id": 720,
+        "medicine": "Cefuroxime"
+    },
+    {
+        "id": 721,
+        "medicine": "Ulipristal"
+    },
+    {
+        "id": 722,
+        "medicine": "Benznidazole"
+    },
+    {
+        "id": 723,
+        "medicine": "Penicillin G"
+    },
+    {
+        "id": 724,
+        "medicine": "Atezolizumab"
+    },
+    {
+        "id": 725,
+        "medicine": "Tafamidis"
+    },
+    {
+        "id": 726,
+        "medicine": "Iodoquinol"
+    },
+    {
+        "id": 727,
+        "medicine": "Diazepam"
+    },
+    {
+        "id": 728,
+        "medicine": "Zileuton"
+    },
+    {
+        "id": 729,
+        "medicine": "Ribociclib"
+    },
+    {
+        "id": 730,
+        "medicine": "Belimumab"
+    },
+    {
+        "id": 731,
+        "medicine": "Morphine"
+    },
+    {
+        "id": 732,
+        "medicine": "Abatacept"
+    },
+    {
+        "id": 733,
+        "medicine": "Cefazolin"
+    },
+    {
+        "id": 734,
+        "medicine": "Clomiphene"
+    },
+    {
+        "id": 735,
+        "medicine": "Carboplatin"
+    },
+    {
+        "id": 736,
+        "medicine": "Prednisolone"
+    },
+    {
+        "id": 737,
+        "medicine": "Vasopressin"
+    },
+    {
+        "id": 738,
+        "medicine": "Clonazepam"
+    },
+    {
+        "id": 739,
+        "medicine": "Niraparib"
+    },
+    {
+        "id": 740,
+        "medicine": "Amiodarone"
+    },
+    {
+        "id": 741,
+        "medicine": "Disulfiram"
+    },
+    {
+        "id": 742,
+        "medicine": "Regorafenib"
+    },
+    {
+        "id": 743,
+        "medicine": "Mifepristone"
+    },
+    {
+        "id": 744,
+        "medicine": "Trametinib"
+    },
+    {
+        "id": 745,
+        "medicine": "Ondansetron"
+    },
+    {
+        "id": 746,
+        "medicine": "Atazanavir"
+    },
+    {
+        "id": 747,
+        "medicine": "Terbutaline"
+    },
+    {
+        "id": 748,
+        "medicine": "Daptomycin"
+    },
+    {
+        "id": 749,
+        "medicine": "Adefovir"
+    },
+    {
+        "id": 750,
+        "medicine": "Rifampin"
+    },
+    {
+        "id": 751,
+        "medicine": "Tranylcypromine"
+    },
+    {
+        "id": 752,
+        "medicine": "Tetracycline"
+    },
+    {
+        "id": 753,
+        "medicine": "Oxybutynin"
+    },
+    {
+        "id": 754,
+        "medicine": "Aflibercept"
+    },
+    {
+        "id": 755,
+        "medicine": "Pentostatin"
+    },
+    {
+        "id": 756,
+        "medicine": "Sorafenib"
+    },
+    {
+        "id": 757,
+        "medicine": "Delamanid"
+    },
+    {
+        "id": 758,
+        "medicine": "Valsartan"
+    },
+    {
+        "id": 759,
+        "medicine": "Quinine"
+    },
+    {
+        "id": 760,
+        "medicine": "Amphotericin B"
+    },
+    {
+        "id": 761,
+        "medicine": "Primaquine"
+    },
+    {
+        "id": 762,
+        "medicine": "Teicoplanin"
+    },
+    {
+        "id": 763,
+        "medicine": "Zolpidem"
+    },
+    {
+        "id": 764,
+        "medicine": "Atorvastatin"
+    },
+    {
+        "id": 765,
+        "medicine": "Verapamil"
+    },
+    {
+        "id": 766,
+        "medicine": "Carmustine"
+    },
+    {
+        "id": 767,
+        "medicine": "Triamcinolone"
+    },
+    {
+        "id": 768,
+        "medicine": "Dalfampridine"
+    },
+    {
+        "id": 769,
+        "medicine": "Cobimetinib"
+    },
+    {
+        "id": 770,
+        "medicine": "Dorzolamide"
+    },
+    {
+        "id": 771,
+        "medicine": "Chloroquine"
+    },
+    {
+        "id": 772,
+        "medicine": "Methylnaltrexone"
+    },
+    {
+        "id": 773,
+        "medicine": "Melatonin"
+    },
+    {
+        "id": 774,
+        "medicine": "Upadacitinib"
+    },
+    {
+        "id": 775,
+        "medicine": "Pamidronate"
+    },
+    {
+        "id": 776,
+        "medicine": "Norfloxacin"
+    },
+    {
+        "id": 777,
+        "medicine": "Fidaxomicin"
+    },
+    {
+        "id": 778,
+        "medicine": "Entecavir"
+    },
+    {
+        "id": 779,
+        "medicine": "Tobramycin"
+    },
+    {
+        "id": 780,
+        "medicine": "Fluorometholone"
+    },
+    {
+        "id": 781,
+        "medicine": "Montelukast"
+    },
+    {
+        "id": 782,
+        "medicine": "Mebendazole"
+    },
+    {
+        "id": 783,
+        "medicine": "Methyldopa"
+    },
+    {
+        "id": 784,
+        "medicine": "Paromomycin"
+    },
+    {
+        "id": 785,
+        "medicine": "Hydroxyurea"
+    },
+    {
+        "id": 786,
+        "medicine": "Caspofungin"
+    },
+    {
+        "id": 787,
+        "medicine": "Temozolomide"
+    },
+    {
+        "id": 788,
+        "medicine": "Benazepril"
+    },
+    {
+        "id": 789,
+        "medicine": "Stavudine"
+    },
+    {
+        "id": 790,
+        "medicine": "Budesonide"
+    },
+    {
+        "id": 791,
+        "medicine": "Exemestane"
+    },
+    {
+        "id": 792,
+        "medicine": "Clarithromycin"
+    },
+    {
+        "id": 793,
+        "medicine": "Methicillin"
+    },
+    {
+        "id": 794,
+        "medicine": "Anagrelide"
+    }
+]
